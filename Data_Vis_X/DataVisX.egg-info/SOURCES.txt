@@ -1,0 +1,5 @@
+setup.py
+DataVisX.egg-info/PKG-INFO
+DataVisX.egg-info/SOURCES.txt
+DataVisX.egg-info/dependency_links.txt
+DataVisX.egg-info/top_level.txt
